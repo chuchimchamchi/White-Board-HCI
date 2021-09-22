@@ -1,0 +1,10 @@
+D:\Document\WhiteBoard.Business\bin\Debug\netcoreapp3.1\WhiteBoard.Business.deps.json
+D:\Document\WhiteBoard.Business\bin\Debug\netcoreapp3.1\WhiteBoard.Business.dll
+D:\Document\WhiteBoard.Business\bin\Debug\netcoreapp3.1\WhiteBoard.Business.pdb
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.csprojAssemblyReference.cache
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.AssemblyInfoInputs.cache
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.AssemblyInfo.cs
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.csproj.CoreCompileInputs.cache
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.dll
+D:\Document\WhiteBoard.Business\obj\Debug\netcoreapp3.1\WhiteBoard.Business.pdb
